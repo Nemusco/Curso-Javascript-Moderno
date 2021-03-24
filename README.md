@@ -10,3 +10,7 @@ An awesome Javascript course from Udemy taught by Juan Pablo De La Torre La Torr
 - Aprenderas programación Asincrona con Promises, Callbacks y Async Await
 - Construiremos una gran cantidad de proyectos, consumiendo REST API's y otros con código puro de JavaScript
 - Agregar interacción a tus aplicaciones y páginas web
+
+### My practices finished
+
+- Carrito: https://wizardly-colden-aa1e65.netlify.app/
