@@ -13,4 +13,5 @@ An awesome Javascript course from Udemy taught by Juan Pablo De La Torre La Torr
 
 ### My practices finished
 
-- Carrito: https://wizardly-colden-aa1e65.netlify.app/
+- Carrito de compras: https://wizardly-colden-aa1e65.netlify.app/
+- Simulador de envio de correo: https://goofy-villani-0a22dd.netlify.app/
