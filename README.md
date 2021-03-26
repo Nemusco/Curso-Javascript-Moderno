@@ -18,3 +18,4 @@ An awesome Javascript course from Udemy taught by Juan Pablo De La Torre La Torr
 - Busca autos: https://cranky-banach-29840a.netlify.app/
 - LocalStorage: https://fervent-agnesi-6a0b13.netlify.app/
 - Carrito y localStorage: https://hardcore-clarke-85399a.netlify.app/
+- Cotizador y Prototypes: https://stoic-golick-71f0b9.netlify.app/
